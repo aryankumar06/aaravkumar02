@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fecommerce-platforms.com%2Farticles%2Fthe-full-stack-design-concept&psig=AOvVaw22z4zVQu3-5QV75wMznt-t&ust=1697688340968000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCIiGzobc_oEDFQAAAAAdAAAAABAF
+https://images.app.goo.gl/NsyG9X4xZKjhu6Sg6
 <h1 align="center">Hi 👋, I'm ARYAN KUMAR </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
